@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Aditya"
+name                     : &name "Amritanshu"
 description              : &description "personal description"
-url                      : https://praditya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amritanshu-manu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "praditya/praditya.github.io"
+repository               : "amritanshu-manu/amritanshu-manu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aditya Pratap"
+  name             : "Amritanshu Manu"
   avatar           : "profile_1.jpg"
   bio              : "Love the Doing"
-  location         : "Udaipur"
+  location         : "IIT Kanpur"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "arajawa1@jaguarlandrover.com"
+  email            : "700unam@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "apsr25"
+  facebook         : # "apsr25"
   foursquare       :
-  github           : "praditya"
+  github           : "amritanshu-manu"
   google_plus      :
   keybase          :
-  instagram        : "approximately.myself"
+  instagram        : "manu_fractured"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "adityapsr"
+  linkedin         : "amritanshu-manu-2a2668183"
   orcid            : #"http://orcid.org/yourorcidurl
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
