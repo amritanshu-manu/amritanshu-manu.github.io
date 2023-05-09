@@ -8,5 +8,5 @@ date: 2023-02-01
 location: "Kanpur, India"
 ---
 
-* As a part of the PMRF teaching duties, conducted weekly sessions for the registered NPTEL scholars for eight weeks
-* The recorded live sessions can be accessed at: https://www.youtube.com/playlist?list=PL4L-imCZFNKB9NyzZXIHhguJFu49VDxEw
+* As a part of the PMRF teaching duties, conducted weekly sessions for NPTEL scholars for eight weeks
+* The recorded live sessions can be accessed [here](https://www.youtube.com/playlist?list=PL4L-imCZFNKB9NyzZXIHhguJFu49VDxEw).
