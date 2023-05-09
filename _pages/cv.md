@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ---
 
-<iframe src="/files/Aditya_Rajawat-Resume.pdf" width="100%" height="700"></iframe>
+<iframe src="/files/Amritanshu_Manu_CV_onepage.pdf" width="100%" height="700"></iframe>
 
 ---
 
